@@ -1,5 +1,6 @@
 mountpoints:
-  /: 
+  /: https://drive.google.com/drive/u/0/folders/1MXqgCqL2O6T3vILEgUPUjrumuZdFQnmK
+  /dynamic: 
     url: https://ub6enueu2c.execute-api.eu-central-1.amazonaws.com/prod
     type: markup
     suffix: "*.html"
